@@ -8,7 +8,7 @@ const Sidebar = () => {
   const location = useLocation();
 
   return (
-    <div className="w-full h-full border-r-[1px] border-darkblue/10 font-bold bg-transparent">
+    <div className="w-full h-full border-r-[1px] border-darkblue/0 font-bold bg-transparent">
       <Link
         to="/"
         className="w-full text-[12px] mt-[30px] ml-[20px] flex items-center"
